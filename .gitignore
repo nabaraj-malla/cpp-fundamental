@@ -26,3 +26,20 @@ rotate-array
 second-largest-in-array 
 Sort_0_1_2 
 sum-of-two-arrays
+
+# Character Arrays and 2D Arrays
+check-palindrome 
+check-permutation 
+column-wise-sum 
+compress-the-string 
+highest-occuring-character 
+largest-row-or-column 
+print-all-substring 
+remove-character 
+remove-consecutives-duplicates 
+replace-character 
+reverse-word-wise 
+revrse-each-word 
+spiral-print 
+trim-spaces 
+wavePrint
