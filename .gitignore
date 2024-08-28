@@ -4,3 +4,15 @@ inverted-number-pattern
 mirror-number-pattern 
 star-pattern 
 triangle-of-numbers
+
+# Arrays
+arrange-numbers-in-array 
+arraySum 
+find-duplicate 
+find-unique 
+Intersection-of-two-arrays 
+linear-search 
+pairSum 
+Sort-0-1 
+swap-alternate 
+triplet-sum
