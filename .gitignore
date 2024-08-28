@@ -16,3 +16,13 @@ pairSum
 Sort-0-1 
 swap-alternate 
 triplet-sum
+
+# Searching and Sorting
+check-array-rotation 
+insertion-sort 
+merge-two-sorted-arrays 
+push-zeros-to-end 
+rotate-array 
+second-largest-in-array 
+Sort_0_1_2 
+sum-of-two-arrays
